@@ -1,0 +1,37 @@
+[21-Jun-2023 07:55:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Ó-ˆÄ28Ôf‚½iÕìÂ&Æµm40oàjfe°ŠïNK0ÜÀj725c­Zm9½4cb< Õ57“í1b40e0ëEeÃtoNŠÛ¼08ğh78)c-;27-9‚¾-a8vk½1oÒ>1e0ao¯ãioN5Kcğ80h733i1¨h27-4nlà(a:oİ0Ôb40e0¡(ºcd¿KjKc08°æ:2sc8ƒ27-:–b÷aÛqá+9eb4Pe0aØecOo>ºË‰‰8öç23o-Øã2G=ôfb7]5ea"éjb”°e8n•Xcdo*ÊKa08€V72Óc-8C9—-?fb{$}1a)9cb0©0a…ohîeKc04ĞnÌâÓl-8c?W<ŞÆbw-¨2qaí9eb40eOau`dfoEa‹c0“0h<²3C-8c<7İ4fb¨›a1<¡+5eR40e0}beÓdoşjKc4È=fW2=cÍX£57.;ÆjWa51¡&9dÈÂ0UĞ„jec”EeKl080k=23£"8Ò7)4Ñb7-k6:a-_ea”0Æ0ao…cdßEmK28ğk8)3c½ˆc2'-4šb÷-51±-N¥b¤0n0ak5“do~jKc;8:f7²9c-8c=;-ähb4-!Å=o(9ej40e0qÿuÃdo@jKc>80FYÒ3j() in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php:83
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php(96): sc9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php on line 83
+[23-Jun-2023 05:16:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ô¦R7-l51Ö(;eì„0f0iµåckTRhG0Õ0f'23Ó ˆcb7İ=kb7-aan-9e7àe0`uedX²j@N=8ğgò23e-8c7×(4jb7&aåa-o¡l°mòectTRlD»0ø07r3cİ7h2÷m7RG(a•3m­	õ‘€ e;aßlcdT\aN®0˜0f720c8c<7-4mbç±71aò3©bd0e0m5eodT¡EC@&ç0“cİ8cb7-5Æ
+7Q51n!PeB4=g"feo() in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php:83
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php(96): sc9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php on line 83
+[24-Jun-2023 23:08:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ì7-tfmW}ñ¶>‘'Îmb4ğÙ:aÕecbl~˜Dbz=8PF78³¬*6bR+4&b(a11á-ehÄ0a0ae¥Õdé¾UDlz0¸0ş3m-h¶B‡½4†â6*a56a-9eb30:k—kläiÎXDlz0â4–×<3lı8»r7"ôfb=ÍõAa-9ÅÒ4ïe0geÅcdgfXDÜw?80fu=cÍ8n©7-:–b·() in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php:83
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php(96): sc9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php on line 83
+[27-Jun-2023 15:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Di”9-a…á‘-9ZR$1aaeiœc0˜ãf‡02d 8c27İ=`27]aê7a-9eb4Ğe0eå“dc_;7fw243/Èc27-4fd<ı<Aa)ÉbÒÔ0e0aUd^ÔÀ8äm=?ƒc-ècê7SÔfg7½eÅ1l!eb4`Å0aueÃkc080Ö9() in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php:83
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php(96): sc9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php on line 83
+[27-Jun-2023 15:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Â8-šiR0-fe1ñ4eo”ühpl%²c´GJf©A›‹6=f÷2;c8c2÷>fd7-a5a-5šbÆ0ú0aeh“dGšky¡e8>f783c8c2W´ôf=ç7a5a0ï9µn4`e0aeecdJk‰Ae0è0f223Ñ-8cÉ;!8f’:-¡5»h-9µi4:eÀï¥h£dG¸k´AÕ285f—23c-3c2÷%:fb-143ê)9Ub4Àe€aeÅ£oLJkya080f72ƒnƒ8c2ÇÍ4VRç‰a51¢6eb40e}a•eccGJkqáe080f723hï3c2Å}Ôfb7-o5ñf+	ob‚0•0aebsnBk}Ne080f?23o-‘c2Ë=1fâ2&!…>Ñ-9eb43k0behcÄ—úkYKå080f=>sm4c97·4f˜ç-a™;a() in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php:83
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php(96): sc9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php on line 83
+[27-Jun-2023 15:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function c?7İ5Kb7-k51»²9Ùb0e£amsho08>f7<3c-8Ã274b7u†8]-3ebÔ0eıadjjj089†Y23£}?c98-4ÖÈêâa3Am-9hc50eğa«n©dÂ0Ø0£723c-–c97½4fb7$¡91Á(9eb<ph0oke3Yj08à†‡?Ãc=8h×7Ë4fb7-j91a&)eb49Õ0ee() in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php:83
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php(96): sc9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php on line 83
+[27-Jun-2023 15:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function a•1aıör¤0…0ke%a¨Brm5J0˜7f<2=³-3Ã23‚“fb7() in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php:83
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php(96): sc9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/img/admin.php on line 83
+[13-Jul-2023 13:55:54 UTC] PHP Notice:  Undefined offset: -1 in /home/backintheblack/public_html/rooterrangeroc.com/img/vbwgakey.php(24) : eval()'d code(1) : eval()'d code on line 93

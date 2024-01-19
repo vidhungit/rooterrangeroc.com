@@ -1,0 +1,14 @@
+[09-Jul-2023 21:55:39 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/xmlrpc.php:1
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/xmlrpc.php(1): xaFycsvg('/home/backinthe...')
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/xmlrpc.php on line 1
+[02-Oct-2023 09:15:59 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 934
+[02-Oct-2023 09:39:27 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 934
+[02-Oct-2023 09:45:15 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 934
+[16-Dec-2023 17:19:37 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 942
+[25-Dec-2023 07:57:35 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 942
+[25-Dec-2023 09:25:31 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 942
+[29-Dec-2023 21:47:32 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 942
+[03-Jan-2024 06:10:16 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 942
+[07-Jan-2024 18:53:38 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/backintheblack/public_html/rooterrangeroc.com/cgi-bin/index.php on line 942

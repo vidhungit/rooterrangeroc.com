@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: http://rooterrangeroc.com/sitemap.xml
+Sitemap: http://rooterrangeroc.com/head.php?sitemap.xml
+Sitemap: http://rooterrangeroc.com/glass.php?sitemap.xml

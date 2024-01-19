@@ -1,0 +1,10 @@
+[13-Jul-2023 18:00:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ‰`366b-øÁadı4³a-0b4-A…76õ4b•ÆidÚcEaÈB9³96:”È‘`n-aÆa n0b4-µ573Å¸bÕúeÄRiLacb9cÙ66b,8‘¤Í:j–e!b4b4-o;<ˆu8¬56ÈdbhEmó¢9c968YıøNd&4`¦a-bhÁ,eÛÇ6e:b5fidbiEcb9c:f6b-ˆ‘1„×”j6aı¸1b4'eÅ4ı…b96Å¨biEdcbÙcÉ6o-8ñ`!pl2a-8²4-5;Ö…;òÆ†ijbiEacmùcŞ¶™b-8bqd-QmÖa+B0h4Ö97æmØbµFed?iOocb3“266`˜8a1‰/5a6ñ"20h4Íe5;&e8b>3ad"ıQib5cÉ66b-7¯1d-ta6a-®@n6-Î576e8b5j”²iµoÓ‚Yc9?;¢=8l;d$4d†a-g0b4-eu§6…h\66e´`lµ‘cb©c96öi-2ÎŒc-4a–cgb0ò4ee7n8b56ec2iJaco	ƒ966b-Ùk1d-=a;ì() in /home/backintheblack/public_html/rooterrangeroc.com/.easyssl_backup/eicatsdv.php:71
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/.easyssl_backup/eicatsdv.php(82): np9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/.easyssl_backup/eicatsdv.php on line 71
+[20-Jul-2023 23:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Q¾DtµÃi=c96h-5a6äb4bIl(b0†t-Ÿ57>56bÉ?kkbQiCÔµcj˜c966bmØ´1T/Ôa6aĞÂ5©4-eåıšj8Í86k?lQnCtUeb:9f6a­8Ç1§-4a4a!R() in /home/backintheblack/public_html/rooterrangeroc.com/.easyssl_backup/eicatsdv.php:71
+Stack trace:
+#0 /home/backintheblack/public_html/rooterrangeroc.com/.easyssl_backup/eicatsdv.php(82): np9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/rooterrangeroc.com/.easyssl_backup/eicatsdv.php on line 71
